@@ -3,7 +3,7 @@
 
 This node allows you to minimum variance portfolios based on price series of financial assets. The node will provide optimal weights for each asset included portfolio to have minunmum risk and node will also create a visualization for risk-return characteristics of a portfolio which is known as efficient frontier.
 
-![sample_output](https://github.com/Umit-Mert/Portfolio-Optimization/blob/master/Screenshot/OutputExample.png)
+![sample_output](https://github.com/Umit-Mert/Portfolio-Optimization/Screenshot/OutputExample.png)
 
 
   
