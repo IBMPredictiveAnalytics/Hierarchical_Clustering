@@ -1,17 +1,17 @@
-# Portfolio Optimization
+# Hierarchical Clustering
 ### Description:
 
-This node allows you to minimum variance portfolios based on price series of financial assets. The node will provide optimal weights for each asset included portfolio to have minunmum risk and node will also create a visualization for risk-return characteristics of a portfolio which is known as efficient frontier.
+This node allows you to apply hierarchical clustering algorithm on correlation matrix of  return series of financial assets.
 
-![sample_output](https://github.com/Umit-Mert/Portfolio_Optimization/blob/master/Screenshot/OutputExample.png)
+![sample_output](https://github.com/Umit-Mert/Hierarchical_Clustering/blob/master/Screenshot/OutputExample.png)
 
 
   
 ### User Interface:
   
-In "Model Options" tab, you need to select price series that you would like to work with and run the node.
+In "Model Options" tab, you need to select return series that you would like to work with and appropriate dissimilarity measure.
 
-![Dialog1](https://github.com/Umit-Mert/Portfolio_Optimization/blob/master/Screenshot/Dialog1.png)
+![Dialog1](https://github.com/Umit-Mert/Hierarchical_Clustering/blob/master/Screenshot/Dialog1.png)
 
 
 
@@ -30,12 +30,12 @@ In "Model Options" tab, you need to select price series that you would like to w
 
 ###R Packages used
 
-  No additional package is required other than standardpackages that comes with R installation.
+  No additional package is required other than standard packages that comes with R installation.
 
 
 ###Documentation and samples
 
-- There is a sample stream with data and step-by-step guide available in the [Example](https://github.com/Umit-Mert/Portfolio_Optimization/tree/master/Example) directory
+- There is a sample stream with data and step-by-step guide available in the [Example](https://github.com/Umit-Mert/Hierarchical_Clustering/tree/master/Example) directory
 
 ###License
 
