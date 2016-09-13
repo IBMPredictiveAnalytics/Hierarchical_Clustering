@@ -18,8 +18,8 @@ In "Model Options" tab, you need to select return series that you would like to 
 ###Requirements
 
 - IBM SPSS Modeler v18 or later
-- "R Essentials for SPSS Modeler" plugin: [Download here][8]
-- R 2.15.x or R 3.1 ([Use this link][8] to find the correct version)
+- "R Essentials for SPSS Modeler" plugin: [Download here][9]
+- R 2.15.x or R 3.1 ([Use this link][10] to find the correct version)
 
 
 ###Installation instructions
@@ -55,3 +55,5 @@ In "Model Options" tab, you need to select return series that you would like to 
 [6]: https://cran.r-project.org/web/packages/rvest/
 [7]: https://cran.r-project.org/web/packages/RColorBrewer/
 [8]: https://developer.ibm.com/predictiveanalytics/downloads/
+[9]: https://www-01.ibm.com/marketing/iwm/iwm/web/preLogin.do?source=swg-tspssp
+[10]: https://www.r-project.org/
